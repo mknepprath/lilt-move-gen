@@ -2,8 +2,8 @@ import json
 import random
 
 # TO RUN:
-# - python room.py > moves_room.json
-# - python crescent.py > moves_crescent.json
+# - python room.py > json/moves_room.json
+# - python crescent.py > json/moves_crescent.json
 # Convert to CSV: https://json-csv.com/
 
 
