@@ -1,8 +1,5 @@
 from gen_moves import gen_moves
 
-# TO RUN: python3 gen_moves.py > moves.json
-# Convert to CSV: https://json-csv.com/
-
 POSITION = 'crescent'
 
 OBJECTS = [

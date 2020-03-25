@@ -10,3 +10,5 @@ distribute-*
 
 *.pyc
 *.pyo
+
+.DS_Store

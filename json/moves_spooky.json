@@ -1,0 +1,457 @@
+[
+  {
+    "move": "look down",
+    "response": "That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look around",
+    "response": "That doesn't seem to do anything. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "where am i",
+    "response": "You can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "what are my options",
+    "response": "Oops, didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look right",
+    "response": "You can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look left",
+    "response": "Try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "help",
+    "response": "Try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "what is around me",
+    "response": "Sorry, you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look up",
+    "response": "Nice try, but you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "close hut",
+    "response": "You try to close the hut. That doesn't seem to do anything. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "close medallion",
+    "response": "You try to close the medallion. That can't be done. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "close spookytown",
+    "response": "You try to close the spookytown. Oops, can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "close totem",
+    "response": "You try to close the totem. Nice try, but you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "eat hut",
+    "response": "You try to eat the hut. Oops, can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "eat medallion",
+    "response": "You try to eat the medallion. Sorry, you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "eat spookytown",
+    "response": "You try to eat the spookytown. That can't be done. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "eat totem",
+    "response": "You try to eat the totem. Oops, didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "give hut",
+    "response": "You try to give the hut. Nice try, but you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "give medallion",
+    "response": "You try to give the medallion. Try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "give spookytown",
+    "response": "You try to give the spookytown. That doesn't seem to do anything. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "give totem",
+    "response": "You try to give the totem. Nice try, but you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "go through hut",
+    "response": "You try to go through the hut. Oops, didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "go through medallion",
+    "response": "You try to go through the medallion. Didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "go through spookytown",
+    "response": "You try to go through the spookytown. Nice try, but that didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "go through totem",
+    "response": "You try to go through the totem. Oops, didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "kill hut",
+    "response": "You try to kill the hut. That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "kill medallion",
+    "response": "You try to kill the medallion. Oops, try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "kill spookytown",
+    "response": "You try to kill the spookytown. Try something else, that didn't seem to work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "kill totem",
+    "response": "You try to kill the totem. Nice try, but that didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look at hut",
+    "response": "You try to look at the hut. Nice try, but that didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look at medallion",
+    "response": "You try to look at the medallion. Oops, try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look at spookytown",
+    "response": "You try to look at the spookytown. Sorry, you'll have to try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look at totem",
+    "response": "You try to look at the totem. That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look behind hut",
+    "response": "You try to look behind the hut. That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look behind medallion",
+    "response": "You try to look behind the medallion. Nice try, but you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look behind spookytown",
+    "response": "You try to look behind the spookytown. Oops, can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look behind totem",
+    "response": "You try to look behind the totem. Sorry, you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look under hut",
+    "response": "You try to look under the hut. Oops, didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look under medallion",
+    "response": "You try to look under the medallion. Try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look under spookytown",
+    "response": "You try to look under the spookytown. Sorry, you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "look under totem",
+    "response": "You try to look under the totem. Oops, didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "open hut",
+    "response": "You try to open the hut. Nice try, but that didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "open medallion",
+    "response": "You try to open the medallion. Sorry, you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "open spookytown",
+    "response": "You try to open the spookytown. You can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "open totem",
+    "response": "You try to open the totem. That can't be done. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "pull hut",
+    "response": "You try to pull the hut. Nice try, but that didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "pull medallion",
+    "response": "You try to pull the medallion. Try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "pull spookytown",
+    "response": "You try to pull the spookytown. Nice try, but you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "pull totem",
+    "response": "You try to pull the totem. That can't be done. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "punch hut",
+    "response": "You try to punch the hut. Nice try, but you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "punch medallion",
+    "response": "You try to punch the medallion. Try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "punch spookytown",
+    "response": "You try to punch the spookytown. Didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "punch totem",
+    "response": "You try to punch the totem. That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "push hut",
+    "response": "You try to push the hut. Sorry, you'll have to try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "push medallion",
+    "response": "You try to push the medallion. Oops, didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "push spookytown",
+    "response": "You try to push the spookytown. Oops, didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "push totem",
+    "response": "You try to push the totem. That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "take hut",
+    "response": "You try to take the hut. Didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "take medallion",
+    "response": "You try to take the medallion. Oops, try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "take spookytown",
+    "response": "You try to take the spookytown. Nice try, but you can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "take totem",
+    "response": "You try to take the totem. That doesn't seem to do anything. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "talk to hut",
+    "response": "You try to talk to the hut. Didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "talk to medallion",
+    "response": "You try to talk to the medallion. You can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "talk to spookytown",
+    "response": "You try to talk to the spookytown. That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "talk to totem",
+    "response": "You try to talk to the totem. That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "think about hut",
+    "response": "You try to think about the hut. That doesn't seem to do anything. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "think about medallion",
+    "response": "You try to think about the medallion. Sorry, you'll have to try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "think about spookytown",
+    "response": "You try to think about the spookytown. Sorry, you'll have to try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "think about totem",
+    "response": "You try to think about the totem. Oops, can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use hut",
+    "response": "You try to use the hut. That can't be done. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use medallion",
+    "response": "You try to use the medallion. That doesn't seem to do anything. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use spookytown",
+    "response": "You try to use the spookytown. Nice try, but that didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use totem",
+    "response": "You try to use the totem. You can't do that. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use medallion on hut",
+    "response": "You try to use the medallion on the hut. That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use medallion on hut",
+    "response": "You try to use the medallion on the hut. That doesn't seem to do anything. #gen",
+    "condition": "{\"medallion\": \"inventory\"}",
+    "position": "spookytown"
+  },
+  {
+    "move": "use medallion on hut",
+    "response": "You try to use the medallion on the hut. Sorry, you can't do that. #gen",
+    "condition": "{\"hut\": \"smashed\"}",
+    "position": "spookytown"
+  },
+  {
+    "move": "use medallion on spookytown",
+    "response": "You try to use the medallion on the spookytown. Try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use medallion on spookytown",
+    "response": "You try to use the medallion on the spookytown. Try something else, that didn't seem to work. #gen",
+    "condition": "{\"medallion\": \"inventory\"}",
+    "position": "spookytown"
+  },
+  {
+    "move": "use medallion on totem",
+    "response": "You try to use the medallion on the totem. Try something else. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use medallion on totem",
+    "response": "You try to use the medallion on the totem. Oops, try something else. #gen",
+    "condition": "{\"medallion\": \"inventory\"}",
+    "position": "spookytown"
+  },
+  {
+    "move": "use medallion on totem",
+    "response": "You try to use the medallion on the totem. Didn't work. #gen",
+    "condition": "{\"totem\": \"inventory\"}",
+    "position": "spookytown"
+  },
+  {
+    "move": "use totem on hut",
+    "response": "You try to use the totem on the hut. That can't be done. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use totem on hut",
+    "response": "You try to use the totem on the hut. Didn't work. #gen",
+    "condition": "{\"totem\": \"inventory\"}",
+    "position": "spookytown"
+  },
+  {
+    "move": "use totem on hut",
+    "response": "You try to use the totem on the hut. You can't do that. #gen",
+    "condition": "{\"hut\": \"smashed\"}",
+    "position": "spookytown"
+  },
+  {
+    "move": "use totem on medallion",
+    "response": "You try to use the totem on the medallion. That didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use totem on medallion",
+    "response": "You try to use the totem on the medallion. Oops, didn't work. #gen",
+    "condition": "{\"totem\": \"inventory\"}",
+    "position": "spookytown"
+  },
+  {
+    "move": "use totem on medallion",
+    "response": "You try to use the totem on the medallion. Oops, try something else. #gen",
+    "condition": "{\"medallion\": \"inventory\"}",
+    "position": "spookytown"
+  },
+  {
+    "move": "use totem on spookytown",
+    "response": "You try to use the totem on the spookytown. Didn't work. #gen",
+    "position": "spookytown"
+  },
+  {
+    "move": "use totem on spookytown",
+    "response": "You try to use the totem on the spookytown. Nice try, but that didn't work. #gen",
+    "condition": "{\"totem\": \"inventory\"}",
+    "position": "spookytown"
+  }
+]
